@@ -7,9 +7,5 @@ t <- 2+1
 
 hello
 
-GIS
-
-TEST
-
 ```
 
